@@ -1,4 +1,0 @@
-[submodule ".pi/skills"]
-	path = .pi/skills
-	url = git@github.com:l2fn/leu-ai-skills.git
-	branch = main
