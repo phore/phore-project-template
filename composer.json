@@ -1,8 +1,7 @@
 {
-  "name": "phore/<project>>",
+  "name": "phore/project",
   "type": "library",
   "description": "",
-  "homepage": "",
   "license": "MIT",
   "authors": [
     {
