@@ -27,5 +27,11 @@
   },
   "suggest": {
   },
+  "config": {
+    "preferred-install": "source",
+    "allow-plugins": {
+      "php-http/discovery": false
+    }
+  },
   "minimum-stability": "dev"
 }
